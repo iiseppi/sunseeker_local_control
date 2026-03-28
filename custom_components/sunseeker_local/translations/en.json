@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Set up Sunseeker Local MQTT",
+        "description": "Please enter your mower's Device ID.\n\n**Where to find it?**\n1. On the physical sticker on your mower (usually a 20-character Serial Number).\n2. In the official Sunseeker/whitelabel mobile app under Device Info.\n3. By monitoring your local MQTT broker traffic (look for `device/YOUR_ID/update`).",
+        "data": {
+          "device_id": "Device ID (Serial Number)"
+        }
+      }
+    },
+    "error": {
+      "empty_id": "Device ID cannot be empty."
+    },
+    "abort": {
+      "already_configured": "This mower is already configured."
+    }
+  }
+}

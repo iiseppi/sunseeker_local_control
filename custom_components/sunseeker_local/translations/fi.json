@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Määritä Sunseeker Local MQTT",
+        "description": "Syötä ruohonleikkurisi laite-ID (Device ID).\n\n**Mistä löydän sen?**\n1. Leikkurin fyysisestä tarrasta (yleensä 20-merkkinen sarjanumero, S/N).\n2. Virallisesta Sunseeker- tai sisarmerkin mobiilisovelluksesta (Laitteen tiedot / Device Info).\n3. Seuraamalla paikallisen MQTT-välityspalvelimesi (broker) liikennettä (etsi aihetta `device/SINUN_ID/update`).",
+        "data": {
+          "device_id": "Laitteen ID (Sarjanumero)"
+        }
+      }
+    },
+    "error": {
+      "empty_id": "Laitteen ID ei voi olla tyhjä."
+    },
+    "abort": {
+      "already_configured": "Tämä ruohonleikkuri on jo määritetty."
+    }
+  }
+}
