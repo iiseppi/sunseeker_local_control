@@ -71,7 +71,7 @@ Tämä integraatio hyödyntää paikallisen verkkoliikenteen uudelleenohjausta, 
 **Tapa 1: HACS (Suositeltu)**
 1. Avaa Home Assistant -> HACS -> Integrations.
 2. Klikkaa kolmea pistettä (oikea yläkulma) -> **Custom repositories**.
-3. Lisää tämän repon URL (`https://github.com/oma_tunnuksesi/sunseeker_local_control`) ja valitse tyypiksi **Integration**.
+3. Lisää tämän repon URL (`https://github.com/iiseppi/sunseeker_local_control`) ja valitse tyypiksi **Integration**.
 4. Lataa integraatio ja käynnistä Home Assistant uudelleen.
 
 **Tapa 2: Manuaalinen**
