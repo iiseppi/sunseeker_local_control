@@ -1,11 +1,8 @@
 # Sunseeker Local MQTT for Home Assistant
 A custom Home Assistant integration for Sunseeker and whitelabeled robotic lawnmowers. Enables fast, secure, and cloud-free local control via MQTT.
-
-[Tästä suomenkielisiin ohjeisiin (Finnish instructions below)](#suomeksi-finnish)
-
 ---
 
-## 🇬🇧 English
+## English
 
 ### What is this?
 By default, Sunseeker mowers (and whitelabeled brands like Scheppach, Brucke, Orbex, and Meec Tools) communicate with a proprietary cloud server over an unencrypted MQTT connection. This poses a security risk, as your WiFi credentials and other data are sent in plain text.
@@ -46,7 +43,7 @@ Special thanks to [OlliKantola](https://github.com/OlliKantola/Sunseeker_LawnMow
 
 ---
 
-## 🇫🇮 Suomeksi (Finnish)
+## Suomeksi
 
 ### Mikä tämä on?
 Oletuksena Sunseeker-ruohonleikkurit (ja sisarmerkit kuten Scheppach, Brücke, Orbex ja Meec Tools) kommunikoivat valmistajan pilvipalvelimen kanssa salaamattoman MQTT-yhteyden yli. Tämä on tietoturvariski, sillä mm. langattoman verkkosi salasana lähetetään selkokielisenä.
