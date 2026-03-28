@@ -25,7 +25,7 @@ This integration leverages local MQTT traffic interception to cut off the cloud 
 **Method 1: HACS (Recommended)**
 1. Open Home Assistant -> HACS -> Integrations.
 2. Click the three dots (top right) -> **Custom repositories**.
-3. Add this repository URL (`https://github.com/your_username/sunseeker_local_control`) and select **Integration** as the category.
+3. Add this repository URL (`https://github.com/iiseppi/sunseeker_local_control`) and select **Integration** as the category.
 4. Click **Download** and restart Home Assistant.
 
 **Method 2: Manual**
