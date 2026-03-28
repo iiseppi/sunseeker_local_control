@@ -1,0 +1,6 @@
+{
+  "name": "Sunseeker Local MQTT",
+  "render_readme": true,
+  "iot_class": "Local Push",
+  "hacs": "1.19.0"
+}
