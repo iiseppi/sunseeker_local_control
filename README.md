@@ -1,3 +1,5 @@
+IN DEVELOPMENT! Getting ready for summer time 2027
+
 # Sunseeker Local MQTT for Home Assistant
 A custom Home Assistant integration for Sunseeker and whitelabeled robotic lawnmowers. Enables fast, secure, and cloud-free local control via MQTT.
 ---
